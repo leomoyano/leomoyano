@@ -15,7 +15,6 @@
 - 🎧 I code better with music — check out [this playlist](https://open.spotify.com/playlist/60c0eJQl2QbGVkKwr7DaNy?si=efd58accb5a64987)  
 - 📸 Passionate about **photography**, especially capturing moments with natural light  
 - 📫 You can reach me at **leomoyano7@gmail.com**  
-- 💡 Random fact: I write better code at night, but forget what I wrote in the morning.
 
 ---
 
