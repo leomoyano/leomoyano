@@ -11,7 +11,7 @@
 <p align="right"><h3>Profile Views:</h3><img src="https://komarev.com/ghpvc/?username=leomoyano&label=Profile%20views&color=0e75b6&style=flat"/></p>
 
 - 🔭 Currently working as a **Frontend Developer**  
-- 🌱 Always learning about **modern web tech** and improving my **React & TypeScript** skills  
+- 🌱 Always learning about **Next.js**, **AI integration** and improving my **React & TypeScript** skills  
 - 🎧 I code better with music — check out [this playlist](https://open.spotify.com/playlist/60c0eJQl2QbGVkKwr7DaNy?si=efd58accb5a64987)  
 - 📸 Passionate about **photography**, especially capturing moments with natural light  
 - 📫 You can reach me at **leomoyano7@gmail.com**  
@@ -31,8 +31,12 @@
 ---
 
 <h3 align="left">Languages & Tools:</h3>
+
+<h4>Frontend</h4>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="ts" width="40" height="40"/>
   &nbsp;&nbsp;
@@ -43,7 +47,21 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+</p>
+
+<h4>Backend & Database</h4>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>
   &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40"/>
+</p>
+
+<h4>Tools & Workflow</h4>
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
@@ -57,21 +75,20 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 </p>
 
+<h4>AI Tools</h4>
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="chatgpt" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://www.cursor.com/brand/icon.svg" alt="cursor" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://www.anthropic.com/images/icons/safari-pinned-tab.svg" alt="claude" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://www.gstatic.com/lamda/images/gemini_favicon_f069958c85030456e93de685481c559f160ea06b.png" alt="gemini" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://lovable.dev/favicon.ico" alt="lovable" width="40" height="40"/>
+</p>
+
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leomoyano&show_icons=true&theme=tokyonight" alt="leo-stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leomoyano&theme=tokyonight" alt="leo-streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomoyano&layout=compact&theme=tokyonight" alt="leo-langs"/>
-</p>
-
----
-
-- I usually work with private company repositories, but I promise I’m doing cool stuff behind the scenes 🔒
-
+- I usually work with private company repositories, but I promise I'm doing cool stuff behind the scenes 🔒
